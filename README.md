@@ -1,12 +1,14 @@
 # NYTimes
 User Stories
-First Create single app and add pod in app for calling web-service 
-Pod Create with terminal
-Pod init
-Add in pod file 
-pod 'Alamofire'
-pod 'SwiftyJSON'    
-Then Pod Install
+-First Create single app and add pod in app for calling web-service 
+
+-Pod Create with terminal
+    Pod init
+        -Add in pod file 
+            -pod 'Alamofire'
+            -pod 'SwiftyJSON' 
+            
+- Then after Pod Install
 
 Add Project Helper, Progress bar , Constant, 
 
@@ -43,3 +45,4 @@ Add Project Helper, Progress bar , Constant,
 
 
 
+    
