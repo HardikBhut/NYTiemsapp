@@ -21,6 +21,7 @@
 		56CE8C7521ABD4F200A0640B /* WebserviceHelper.swift in Sources */ = {isa = PBXBuildFile; fileRef = 56CE8C6821ABD4F200A0640B /* WebserviceHelper.swift */; };
 		56CE8C7621ABD4F200A0640B /* MBProgressHUD.m in Sources */ = {isa = PBXBuildFile; fileRef = 56CE8C6A21ABD4F200A0640B /* MBProgressHUD.m */; };
 		56CE8C7721ABD4F200A0640B /* Helper.swift in Sources */ = {isa = PBXBuildFile; fileRef = 56CE8C6D21ABD4F200A0640B /* Helper.swift */; };
+		56CE8C7A21ABDA1D00A0640B /* README.md in Resources */ = {isa = PBXBuildFile; fileRef = 56CE8C7921ABDA1D00A0640B /* README.md */; };
 		DFAE17933BCAC3EC3BB8D58C /* Pods_NYTimesApp.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 7911DFA00C1A11794B033A77 /* Pods_NYTimesApp.framework */; };
 /* End PBXBuildFile section */
 
@@ -54,6 +55,7 @@
 		56CE8C6B21ABD4F200A0640B /* MBProgressHUD.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = MBProgressHUD.h; sourceTree = "<group>"; };
 		56CE8C6D21ABD4F200A0640B /* Helper.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Helper.swift; sourceTree = "<group>"; };
 		56CE8C7821ABD55B00A0640B /* NYTimesApp-Bridging-Header.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "NYTimesApp-Bridging-Header.h"; sourceTree = "<group>"; };
+		56CE8C7921ABDA1D00A0640B /* README.md */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 		67E9DDA8221B3C6BDC13FCB3 /* Pods-NYTimesApp.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-NYTimesApp.release.xcconfig"; path = "Pods/Target Support Files/Pods-NYTimesApp/Pods-NYTimesApp.release.xcconfig"; sourceTree = "<group>"; };
 		7911DFA00C1A11794B033A77 /* Pods_NYTimesApp.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_NYTimesApp.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		914BBC052B9C36D48F382246 /* Pods_NYTimesAppTests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_NYTimesAppTests.framework; sourceTree = BUILT_PRODUCTS_DIR; };
@@ -85,6 +87,7 @@
 		56CE8C2C21ABD3E400A0640B = {
 			isa = PBXGroup;
 			children = (
+				56CE8C7921ABDA1D00A0640B /* README.md */,
 				56CE8C7821ABD55B00A0640B /* NYTimesApp-Bridging-Header.h */,
 				56CE8C3721ABD3E400A0640B /* NYTimesApp */,
 				56CE8C4C21ABD3E600A0640B /* NYTimesAppTests */,
@@ -330,6 +333,7 @@
 			files = (
 				56CE8C7321ABD4F200A0640B /* Main.storyboard in Resources */,
 				56CE8C4321ABD3E600A0640B /* LaunchScreen.storyboard in Resources */,
+				56CE8C7A21ABDA1D00A0640B /* README.md in Resources */,
 				56CE8C4021ABD3E600A0640B /* Assets.xcassets in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
