@@ -1,5 +1,7 @@
 # NYTimes
 User Stories
+- This App Create in Swift 4.0  with Xcode Version 10.0 and minimum Deplyment Target is 9.0 
+
 - First Create single app and add pod in app for calling web-service 
 
 - Pod Create with terminal
