@@ -34,8 +34,8 @@ User Stories
     - When Click on Particular articles to navigate details page 
     - In this details page load url which have contains in json 
 
--Usage
--Download or Clone of Project and run in Xcod
+- Usage
+- Download or Clone of Project and run in Xcod
     - all the set up is don after that run in simulator and check how it works
 
 -Testing 
